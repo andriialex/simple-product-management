@@ -9,7 +9,7 @@ This app is built using Vue.js in the frontend and a RESTful API built with Slim
 To get started with this app, you will need to do the following:
 
 1. Clone this repository to your local machine: `https://github.com/andriialex/simple-product-management.git`
-2. Navigate to the root directory of the project: `cd product-administration`
+2. Navigate to the frontend folder of the project: `cd Frontend-master`
 3. Install all required dependencies: `npm install`
 4. Start the development server: `npm run serve`
 
