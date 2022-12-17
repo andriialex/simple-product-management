@@ -1,6 +1,6 @@
 # Product Administration App
 
-Welcome to the Product Administration app! This app allows users to manage a list of products using an easy-to-use admin page. Users can add new products, edit existing ones, and delete products that are no longer needed. All products are displayed in the main page for easy viewing.
+This app allows users to manage a list of products using an easy-to-use admin page. Users can add new products, edit existing ones, and delete products that are no longer needed. All products are displayed in the main page for easy viewing.
 
 This app is built using Vue.js in the frontend and a RESTful API built with SlimPHP and a MySQL database in the backend.
 
